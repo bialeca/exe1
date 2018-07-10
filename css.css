@@ -1,8 +1,3 @@
-﻿<html>
-<head>
-<title>Site das Mulheres na Tecnologia.</title>
-</head>
-	<style>
 	ul{
 	list-style-type: none;
 	margin: 50;
@@ -65,15 +60,4 @@ p{
 	li a: hover{
 	background-color:#4caf50;
 	}
-	</style>
-<body>
-<ul>
-<li><a href="ada.html">Ada Lovelace</a></li>
-<li><a href="grace.html">Grace Hopper </a></li>
-<li><a href="hedy.html">Hedy Lammar</a> </li>
-<li><a href="irma.html">Irmã Mary Kenneth Keller</a></li>
-<li><a href="carol.html">Carol Shaw</a></li>
-<li><a href="radia.html">Radia Perlman</a></li>
-</ul>
-</body>
-</html>
+	
